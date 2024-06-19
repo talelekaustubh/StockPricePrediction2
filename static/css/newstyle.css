@@ -1,0 +1,6 @@
+.banner {
+    background: url('https://images.moneycontrol.com/static-mcnews/2022/11/stock-market.jpg?impolicy=website&width=1600&height=900')no-repeat center;
+    min-height: 795px;
+    background-size: cover;
+    position: relative;
+}
